@@ -1,0 +1,48 @@
+North America UNESCO	Organization	Country
+Head-Smashed-In Buffalo Jump	Horizontal	Canada
+Historic District of Old Quebec	Vertical	Canada
+Landscape of Grand Pre	Vertical	Canada
+L'Anse aux Meadows Natinal Historic Site	Vertical	Canada
+Old Town Lunenburg	Vertical	Canada
+Red Bay Basque Whaling Station	Vertical	Canada
+Rideau Canal	Vertical	Canada
+SGang Gwaay	Vertical	Canada
+Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca	Horizontal	Mexico
+Rock Paintings of the Sierra de San Francisco	Horizontal	Mexico
+Agave Landscape and Ancient Industrial Facilities of Tequila	Vertical	Mexico
+Aqueduct of Padre Tembleque Hydraulic System	Vertical	Mexico
+Archaeological Monuments Zone of Xochicalco	Vertical	Mexico
+Archaeological Zone of Paquime, Casas Grandes	Vertical	Mexico
+Camino Real de Tierra Adentro	Vertical	Mexico
+Central University City Campus of the Universidad Nacional Autonoma de Mexico (UNAM)	Vertical	Mexico
+Earliest 16th-Century Monastaries on the Slopes of Popocatepetl	Vertical	Mexico
+El Tajin, Pre-Hispanic City	Vertical	Mexico
+Franciscan Missions in the Sierra Gorda of Queretaro	Vertical	Mexico
+Historic Centre of Mexico City and Xochimilco	Vertical	Mexico
+Historic Centre of Morelia	Vertical	Mexico
+Historic Centre of Oaxaca and Archaeological Site of Monte Alban	Vertical	Mexico
+Historic Centre of Puebla	Vertical	Mexico
+Historic Centre of Zacatecas	Vertical	Mexico
+Historic Fortified Town of Campeche	Vertical	Mexico
+Historic Monuments Zone of Queretaro	Vertical	Mexico
+Historic Monuments Zone of Tlacotalpan	Vertical	Mexico
+Historic Town of Guanajuato and Adjacent Mines	Vertical	Mexico
+Hospicio Cabanas, Guadalajara	Vertical	Mexico
+Luis Barragan House and Studio	Vertical	Mexico
+Pre-Hispanic City and National Park of Palenque	Vertical	Mexico
+Pre-Hispanic City of Chichen-Itza	Vertical	Mexico
+Pre-Hispanic City of Teotihuacan	Vertical	Mexico
+Pre-Hispanic Town of Uxmal	Vertical	Mexico
+Protective town of San Miguel and the Sanctuary of Jesus Nazareno de Atotonilco	Vertical	Mexico
+Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche	Vertical	Mexico
+Monumental Earthworks of Poverty Point	Horizontal	USA
+Cahokia Mounds State Historic Site	Vertical	USA
+Chaco Culture	Vertical	USA
+Independence Hall	Vertical	USA
+La Fortaleza and San Juan National Historic Site in Puerto Rico	Vertical	USA
+Mesa Verde National Park	Vertical	USA
+Monticello and the University of Virginia in Charlottesville	Vertical	USA
+San Antonio Missions	Vertical	USA
+Statue of Liberty	Vertical	USA
+Taos Pueblo	Vertical	USA
+Papahanaumokuakea	Vertical	USA
