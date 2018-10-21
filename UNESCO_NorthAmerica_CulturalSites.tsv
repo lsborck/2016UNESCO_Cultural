@@ -1,61 +1,62 @@
-North America UNESCO	Organization	Country
-Head-Smashed-In Buffalo Jump	Horizontal	Canada
-Historic District of Old Quebec	Vertical	Canada
-Landscape of Grand Pre	Vertical	Canada
-L'Anse aux Meadows Natinal Historic Site	Vertical	Canada
-Old Town Lunenburg	Vertical	Canada
-Red Bay Basque Whaling Station	Vertical	Canada
-Rideau Canal	Vertical	Canada
-SGang Gwaay	Vertical	Canada
-Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca	Horizontal	Mexico
-Rock Paintings of the Sierra de San Francisco	Horizontal	Mexico
-Agave Landscape and Ancient Industrial Facilities of Tequila	Vertical	Mexico
-Aqueduct of Padre Tembleque Hydraulic System	Vertical	Mexico
-Archaeological Monuments Zone of Xochicalco	Vertical	Mexico
-Archaeological Zone of Paquime, Casas Grandes	Vertical	Mexico
-Camino Real de Tierra Adentro	Vertical	Mexico
-Central University City Campus of the Universidad Nacional Autonoma de Mexico (UNAM)	Vertical	Mexico
-Earliest 16th-Century Monastaries on the Slopes of Popocatepetl	Vertical	Mexico
-El Tajin, Pre-Hispanic City	Vertical	Mexico
-Franciscan Missions in the Sierra Gorda of Queretaro	Vertical	Mexico
-Historic Centre of Mexico City and Xochimilco	Vertical	Mexico
-Historic Centre of Morelia	Vertical	Mexico
-Historic Centre of Oaxaca and Archaeological Site of Monte Alban	Vertical	Mexico
-Historic Centre of Puebla	Vertical	Mexico
-Historic Centre of Zacatecas	Vertical	Mexico
-Historic Fortified Town of Campeche	Vertical	Mexico
-Historic Monuments Zone of Queretaro	Vertical	Mexico
-Historic Monuments Zone of Tlacotalpan	Vertical	Mexico
-Historic Town of Guanajuato and Adjacent Mines	Vertical	Mexico
-Hospicio Cabanas, Guadalajara	Vertical	Mexico
-Luis Barragan House and Studio	Vertical	Mexico
-Pre-Hispanic City and National Park of Palenque	Vertical	Mexico
-Pre-Hispanic City of Chichen-Itza	Vertical	Mexico
-Pre-Hispanic City of Teotihuacan	Vertical	Mexico
-Pre-Hispanic Town of Uxmal	Vertical	Mexico
-Protective town of San Miguel and the Sanctuary of Jesus Nazareno de Atotonilco	Vertical	Mexico
-Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche	Vertical	Mexico
-Monumental Earthworks of Poverty Point	Horizontal	USA
-Cahokia Mounds State Historic Site	Vertical	USA
-Chaco Culture	Vertical	USA
-Independence Hall	Vertical	USA
-La Fortaleza and San Juan National Historic Site in Puerto Rico	Vertical	USA
-Mesa Verde National Park	Vertical	USA
-Monticello and the University of Virginia in Charlottesville	Vertical	USA
-San Antonio Missions	Vertical	USA
-Statue of Liberty	Vertical	USA
-Taos Pueblo	Vertical	USA
-Papahanaumokuakea	Vertical	USA
-Blue and John Crow Mountains  Horizontal  Jamaica
-Historic Bridgetown and It's Garrison Vertical  Barbados
-Naval Dockyard and Related Archaeological Sites Vertical  Antigua
-Brimstone Hill Fortress National Park Vertical  Saint Kitts and Nevis
-Colonial City of Santo Domingo  Vertical  Dominican Republic
-National History Park - Citadel, Sans Souci, Ramiers  Vertical  Haiti
-Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba  Vertical  Cuba
-Vinales Valley  Vertical  Cuba
-San Pedro de la Roca Castle, Santiago de Cuba Vertical  Cuba
-Trinidad and the Valley de los Ingenios Vertical  Cuba
-Old Havana and its Fortification System Vertical Cuba
-Historic Centre of Camaguey Vertical Cuba
-Urban Historic Centre of Cienfuegos Vertical Cuba
+North America UNESCO	Organization	Country	Colonial?
+Head-Smashed-In Buffalo Jump	Horizontal	Canada	no
+Historic District of Old Quebec	Vertical	Canada	yes
+Landscape of Grand Pre	Vertical	Canada	yes
+L'Anse aux Meadows Natinal Historic Site	Vertical	Canada	yes
+Old Town Lunenburg	Vertical	Canada	yes
+Red Bay Basque Whaling Station	Vertical	Canada	yes
+Rideau Canal	Vertical	Canada	yes
+SGang Gwaay	Vertical	Canada	no
+Prehistoric Caves of Yagul and Mitla in the Central Valley of Oaxaca	Horizontal	Mexico	no
+Rock Paintings of the Sierra de San Francisco	Horizontal	Mexico	no
+Agave Landscape and Ancient Industrial Facilities of Tequila	Vertical	Mexico	yes
+Aqueduct of Padre Tembleque Hydraulic System	Vertical	Mexico	yes
+Archaeological Monuments Zone of Xochicalco	Vertical	Mexico	no
+"Archaeological Zone of Paquime, Casas Grandes"	Vertical	Mexico	no
+Camino Real de Tierra Adentro	Vertical	Mexico	yes
+Central University City Campus of the Universidad Nacional Autonoma de Mexico (UNAM)	Vertical	Mexico	yes
+Earliest 16th-Century Monastaries on the Slopes of Popocatepetl	Vertical	Mexico	yes
+"El Tajin, Pre-Hispanic City"	Vertical	Mexico	no
+Franciscan Missions in the Sierra Gorda of Queretaro	Vertical	Mexico	yes
+Historic Centre of Mexico City and Xochimilco	Vertical	Mexico	yes
+Historic Centre of Morelia	Vertical	Mexico	yes
+Historic Centre of Oaxaca and Archaeological Site of Monte Alban	Vertical	Mexico	yes
+Historic Centre of Puebla	Vertical	Mexico	yes
+Historic Centre of Zacatecas	Vertical	Mexico	yes
+Historic Fortified Town of Campeche	Vertical	Mexico	yes
+Historic Monuments Zone of Queretaro	Vertical	Mexico	yes
+Historic Monuments Zone of Tlacotalpan	Vertical	Mexico	yes
+Historic Town of Guanajuato and Adjacent Mines	Vertical	Mexico	yes
+"Hospicio Cabanas, Guadalajara"	Vertical	Mexico	yes
+Luis Barragan House and Studio	Vertical	Mexico	yes
+Pre-Hispanic City and National Park of Palenque	Vertical	Mexico	no
+Pre-Hispanic City of Chichen-Itza	Vertical	Mexico	no
+Pre-Hispanic City of Teotihuacan	Vertical	Mexico	no
+Pre-Hispanic Town of Uxmal	Vertical	Mexico	no
+Protective town of San Miguel and the Sanctuary of Jesus Nazareno de Atotonilco	Vertical	Mexico	yes
+"Ancient Maya City and Protected Tropical Forests of Calakmul, Campeche"	Vertical	Mexico	no
+Tehuacán-Cuicatlán Valley: originary habitat of Mesoamerica	Horizontal	Mexico	no
+Monumental Earthworks of Poverty Point	Horizontal	USA	no
+Cahokia Mounds State Historic Site	Vertical	USA	no
+Chaco Culture	Vertical	USA	no
+Independence Hall	Vertical	USA	yes
+La Fortaleza and San Juan National Historic Site in Puerto Rico	Vertical	USA	yes
+Mesa Verde National Park	Vertical	USA	no
+Monticello and the University of Virginia in Charlottesville	Vertical	USA	yes
+San Antonio Missions	Vertical	USA	yes
+Statue of Liberty	Vertical	USA	yes
+Taos Pueblo	Vertical	USA	no
+Papahanaumokuakea	Vertical	USA	no
+Blue and John Crow Mountains	Horizontal	Jamaica	yes
+Historic Bridgetown and It's Garrison	Vertical	Barbados	yes
+Naval Dockyard and Related Archaeological Sites	Vertical	Antigua	yes
+Brimstone Hill Fortress National Park	Vertical	Saint Kitts and Nevis	yes
+Colonial City of Santo Domingo	Vertical	Dominican Republic	yes
+"National History Park - Citadel, Sans Souci, Ramiers"	Vertical	Haiti	yes
+Archaeological Landscape of the First Coffee Plantations in the South-East of Cuba	Vertical	Cuba	yes
+Vinales Valley	Vertical	Cuba	yes
+"San Pedro de la Roca Castle, Santiago de Cuba"	Vertical	Cuba	yes
+Trinidad and the Valley de los Ingenios	Vertical	Cuba	yes
+Old Havana and its Fortification System	Vertical	Cuba	yes
+Historic Centre of Camaguey	Vertical	Cuba	yes
+Urban Historic Centre of Cienfuegos	Vertical	Cuba	yes
